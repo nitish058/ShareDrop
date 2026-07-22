@@ -1,6 +1,6 @@
-# ShareDrop Architecture
+# Throw Architecture
 
-This document will describe ShareDrop's architecture once the project's core design has stabilized.
+This document will describe Throw's architecture once the project's core design has stabilized.
 
 The architecture will be documented after the major components, their responsibilities, and their interactions have been defined through implementation and validated by experience.
 
